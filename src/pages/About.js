@@ -83,7 +83,7 @@ function About({ projects, isSm, isMd }) {
                 </Typography>
                 <MuiLink
                   underline="none"
-                  href="resume-bocchino-daniele-2024.pdf"
+                  href="resume-bocchino-daniele-2026.pdf"
                   target="_blank"
                 >
                   <Avatar

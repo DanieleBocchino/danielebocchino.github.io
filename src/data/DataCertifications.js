@@ -22,15 +22,15 @@ export const certifications = [
   //     "",
   // },
   {
-    name: "Microsoft Certified - Azure Data Engineer Associate",
-    img: "/images/certifications/dp-203.png",
-    company: "Microsoft",
-    released: "",
+    name: "UBS Certified Engineer - Gold",
+    img: "https://images.credly.com/size/680x680/images/d7b1cf85-b412-466e-a605-7e495f0c2962/image.png",
+    company: "UBS",
+    released: "Dec 2025",
     expired: "",
     link:
-      "https://learn.microsoft.com/en-us/credentials/certifications/azure-data-engineer/?practice-assessment-type=certification",
+      "https://www.credly.com/badges/de503d39-a8fa-4c0c-82aa-3c29e37b3dbe/public_url",
     verification:
-      "",
+      "https://www.credly.com/badges/de503d39-a8fa-4c0c-82aa-3c29e37b3dbe/public_url",
   },
   {
     name: "Microsoft Certified - Azure Data Fundamentals",
@@ -122,7 +122,7 @@ export const certifications = [
   },
   {
     name: "AWS Cloud Quest: Cloud Practitioner",
-    img: "https://images.credly.com/size/340x340/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png",
+    img: "https://images.credly.com/size/680x680/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob",
     company: "AWS",
     released: "March 2023",
     expired: null,
@@ -132,7 +132,7 @@ export const certifications = [
   },
   {
     name: "AWS Cloud Quest: Solutions Architect",
-    img: "https://images.credly.com/size/340x340/images/9e9e7ef7-384f-4636-8743-1b89a68fb46b/image.png",
+    img: "https://images.credly.com/size/680x680/images/320bfb8f-e722-41b9-a70a-c3fb07402981/blob",
     company: "AWS",
     released: "April 2023",
     expired: null,
